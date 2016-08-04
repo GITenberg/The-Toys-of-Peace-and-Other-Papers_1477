@@ -1,0 +1,37 @@
+_repo: The-Toys-of-Peace-and-Other-Papers_1477
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saki
+    aliases:
+    - Munro, H. H. (Hector Hugh)
+    - Munro, Hector Hugh
+    birthdate: 1870
+    deathdate: 1916
+    gutenberg_agent_id: '152'
+    url: http://www.gutenberg.org/2009/agents/152
+    wikipedia: http://en.wikipedia.org/wiki/Saki
+description: ''
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '1998-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1477'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The toys of peace -- Louise -- Tea -- The disappearance of Crispina
+  Umberleigh -- The wolves of Cernogratz -- Louis -- The guests -- The penance --
+  The phantom luncheon -- A bread and butter miss -- Bertie's Christmas Eve -- Forewarned
+  -- The interlopers -- Quail seed -- Canossa -- The threat -- Excepting Mrs. Pentherby
+  -- Mark -- The hedgehog -- The Mappined life -- Fate -- The bull -- Morlvera --
+  Shock tactics -- The seven cream jugs -- The occasional garden -- The sheep -- The
+  oversight -- Hyacinth -- The image of the lost soul -- The purple of the Balkan
+  kings -- The cupboard of the yesterdays -- For the duration of the war.
+title: The Toys of Peace, and Other Papers
+url: http://www.gutenberg.org/ebooks/1477
